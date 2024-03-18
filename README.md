@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 ### ⚡️ Quick facts
 
-- 🔭 Honing web development skills.
+- 🔭 Learning TypeScript now.
 - 🌱 Learning to stay ahead in tech.
 - 🚴‍♂️ Passionate biker in my free time.
 - 🎸 Strumming the guitar for relaxation.
