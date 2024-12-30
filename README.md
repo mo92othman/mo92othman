@@ -4,7 +4,7 @@
 console.log(Mo); //  ['Developer', 'Architect', 'Graphic Designer']
 ```
 
-I am a passionate developer with an eye for UX/UI. I love working with JavaScript. I enjoy bringing ideas to life from conception to implementation. I try to consider the whole picture, the entire spectrum of a project, from conceptualization to visual aesthetics and user experience. So I enjoy being involved in various aspects of a project, and I'm always eager to learn.
+I am a passionate developer with an eye for UX/UI. I love working with JavaScript and TypeScript. I enjoy bringing ideas to life from conception to implementation. I try to consider the whole picture, the entire spectrum of a project, from conceptualization to visual aesthetics and user experience. So I enjoy being involved in various aspects of a project, and I'm always eager to learn.
 
 ---
 
@@ -17,12 +17,19 @@ I am a passionate developer with an eye for UX/UI. I love working with JavaScrip
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzEkaAN0BJ2o3ri2IsQRKXVk6ejQQqz0GUg&s" />
 <img align="left" alt="GitHub" width="65px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="supabase" width="33px" style="padding-right:10px; border-radius: 10%;" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="schadcn" width="30px" style="padding-right:10px; border-radius: 10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR72dReet6wCEsoTclOLIa9m11NfMiYB2nBG3LxJNWmHAfUFcZc5GtPhEyxe0MQz2du9iM&usqp=CAU" />
+<img align="left" alt="Nextjs" width="30px" style="padding-right:10px; border-radius: 10%;" src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" />
+<img align="left" alt="google cloud functions" width="30px" style="padding-right:10px; border-radius: 10%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10X9iT7TnSU0HkgTFHiuJy17TBDFR0JgO7Q&s" />
+
 <br />
 
 #
+
 <!--
 
 Here are some ideas to get you started:
@@ -36,9 +43,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### ⚡️ Quick facts
 
-- 🔭 Learning TypeScript now.
+- 🔭 Building my Portfolio with Nextjs now.
 - 🌱 Learning to stay ahead in tech.
 - 🚴‍♂️ Passionate biker in my free time.
 - 🎸 Strumming the guitar for relaxation.
